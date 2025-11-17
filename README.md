@@ -2,6 +2,12 @@
 
 Modern, minimal ve dark theme ile tasarlanmış bir metin editörü uygulaması. .NET 8.0 WinForms kullanılarak geliştirilmiştir.
 
+## Öğrenci Bilgileri
+
+**Ad/Soyad:** Selameddin Tirit  
+**Öğrenci No:** 240541035  
+**Bölüm/Fakülte/Şube:** Yazılım Mühendisliği - Teknoloji Fakültesi - A
+
 ## Özellikler
 
 - 🎨 **Modern Dark Theme UI** - Minimal ve göz yormayan koyu tema tasarımı
